@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1575698858 source:/home/cody/Final_Project/main.c
+	"config.h"
+	"delay.h"
+	"dhcp.h"
+	"led.h"
+	"log.h"
+	"rtc.h"
+	"spi.h"
+	"uart.h"
+	"vpd.h"
+	"temp.h"
+	"socket.h"
+	"alarm.h"
+	"wdt.h"
+	"tempfsm.h"
+	"eeprom.h"
+	"ntp.h"
+	"w51.h"
+	"signature.h"
+	"util.h"
+
+1564432663 /home/cody/Final_Project/config.h
+
+1564432838 /home/cody/Final_Project/delay.h
+
+1524177000 /home/cody/Final_Project/dhcp.h
+
+1520446007 /home/cody/Final_Project/led.h
+
+1523113274 /home/cody/Final_Project/log.h
+
+1523480741 /home/cody/Final_Project/rtc.h
+
+1555443756 /home/cody/Final_Project/spi.h
+
+1524183663 /home/cody/Final_Project/uart.h
+
+1564433694 /home/cody/Final_Project/vpd.h
+
+1524183585 /home/cody/Final_Project/temp.h
+
+1575521067 /home/cody/Final_Project/socket.h
+
+1524177000 /home/cody/Final_Project/alarm.h
+
+1523124591 /home/cody/Final_Project/wdt.h
+
+1524183556 /home/cody/Final_Project/tempfsm.h
+
+1524179239 /home/cody/Final_Project/eeprom.h
+
+1524179957 /home/cody/Final_Project/ntp.h
+
+1560966140 /home/cody/Final_Project/w51.h
+
+1573501852 /home/cody/Final_Project/signature.h
+
+1524183940 /home/cody/Final_Project/util.h
+
